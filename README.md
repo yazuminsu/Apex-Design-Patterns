@@ -4,14 +4,15 @@ Apex allows us to develop any custom solution. Apex design patterns gives you a 
 
 ## Types of Design Patterns
 
-### Creational
+  ### Creational
   - patterns that deal with the object creation mechanism
-### Structural
+  ### Structural
   - patterns that help to identify the relationship between entities
-### Behavioral and Concurrency
+  ### Behavioral and Concurrency
   - patterns that explain the communication between objects and multithreaded programming paradigm respectively.
   
 ## Advantages of Design Patterns
+
 • Gives you vocabulary for better and abstract technical discussions.
 
 • Deep and very closely practical understanding of OOP concepts.
