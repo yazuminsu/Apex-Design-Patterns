@@ -13,6 +13,9 @@ Apex allows us to develop any custom solution. Apex design patterns gives you a 
   
 ## Advantages of Design Patterns
 • Gives you vocabulary for better and abstract technical discussions.
+
 • Deep and very closely practical understanding of OOP concepts.
+
 • Gives you variety of options to pick design pattern based upon your requirement by keeping simplicity and complexity of each design pattern in mind.
+
 • It acts like a weapon. More the weapons, more powerful your thoughts would be.
